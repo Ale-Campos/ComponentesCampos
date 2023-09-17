@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.toolbar-comp {
+    position: fixed;
+    z-index: 1;
+}
+
+.navbar-comp {
+    display: flex;
+}
